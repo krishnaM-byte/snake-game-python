@@ -28,12 +28,6 @@ This project was created to strengthen my understanding of game development conc
 
 ---
 
-## 📸 Gameplay Screenshot
-
-![Snake Game](snakevisual.png)
-
----
-
 ## ▶️ Running the Project
 
 1. Install pygame
@@ -56,3 +50,12 @@ python snake_game.py
 - Improve graphics and animations
 - Add sound effects
 - Create multiplayer support
+
+---
+
+
+## 📸 Gameplay Screenshots
+
+![Gameplay 1](snake_visual.png)
+
+![Gameplay 2](snake_end.png)
