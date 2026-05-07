@@ -56,6 +56,4 @@ python snake_game.py
 
 ## 📸 Gameplay Screenshots
 
-![Gameplay 1](snake_visual.png)
 
-![Gameplay 2](snake_end.png)
