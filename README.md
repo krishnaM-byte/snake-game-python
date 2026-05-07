@@ -30,7 +30,7 @@ This project was created to strengthen my understanding of game development conc
 
 ## 📸 Gameplay Screenshot
 
-![Snake Game](snake_game.png)
+![Snake Game](snakevisual.png)
 
 ---
 
